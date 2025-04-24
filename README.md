@@ -40,9 +40,8 @@ The app includes a demo mode with mock data that works without MongoDB, allowing
 
 For full functionality with data persistence:
 
-1. Follow the detailed instructions in [MONGODB_SETUP.md](./MONGODB_SETUP.md) to create a free MongoDB Atlas cluster
-2. Configure the connection string in `.env.local`
-3. Restart the application
+1. Configure the connection string in `.env.local`
+2. Restart the application
 
 ## Project Structure
 
